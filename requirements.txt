@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+Flask
+gunicorn
+python-dotenv
+pandas
+openpyxl

@@ -1,0 +1,5 @@
+.env
+issues.db
+__pycache__/
+*.pyc
+.venv/
