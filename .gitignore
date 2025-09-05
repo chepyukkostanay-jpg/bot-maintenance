@@ -1,5 +1,18 @@
 .env
 issues.db
+.idea/
 __pycache__/
 *.pyc
-.venv/
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets
+.env
+issues.db
+
